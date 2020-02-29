@@ -196,3 +196,4 @@ function play(guild, song) {
 }
 
 client.login(TOKEN);
+fwwdwd
